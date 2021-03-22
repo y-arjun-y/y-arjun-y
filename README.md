@@ -1,4 +1,5 @@
-### Hi there 👋
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true)
+
 
 <!--
 **y-arjun-y/y-arjun-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
