@@ -12,5 +12,7 @@ Operating System - macOS Big Sur
 [Check out my website!](https://arjunyadav.net) <br> [Repository](https://github.com/y-arjun-y/arjunyadav.net)
 
 ## GitHub Statistics 🔍
+<div style="align: center;">
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=synthwave&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-arjun-y&theme=synthwave)](https://github.com/y-arjun-y/github-readme-stats)
+</div>
