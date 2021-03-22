@@ -5,7 +5,7 @@ My name is Arjun Yadav, welcome to my GitHub!
 I frequently program in Python and HTML/CSS, I know C++ and I am currently learning R and JavaScript.
 
 ## Tools 🛠
-Text Editor - Visual Studio Code <br>
+Code Editor - Visual Studio Code <br>
 Operating System - macOS Big Sur
 
 ## Website 🌐
