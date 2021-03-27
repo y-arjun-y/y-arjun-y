@@ -9,7 +9,7 @@ Code Editor - Visual Studio Code <br>
 Operating System - macOS Big Sur
 
 ## Website 🌐
-[Check out my website!](https://arjunyadav.net) <br> [Repository](https://github.com/y-arjun-y/arjunyadav.net)
+[Check out my website!](https://arjunyadav.net)
 
 ## GitHub Statistics 🔍
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=synthwave&hide_rank=true)
