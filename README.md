@@ -2,7 +2,7 @@
 My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Languages 📚
-I frequently program in Python and HTML/CSS, I know C++ and I am currently learning R and JavaScript.
+I frequently program in Python and HTML/CSS and I am currently learning JavaScript.
 
 ## Tools 🛠
 Code Editor - Visual Studio Code <br>
