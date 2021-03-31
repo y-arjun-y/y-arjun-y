@@ -13,4 +13,3 @@ Operating System - macOS Big Sur
 
 ## GitHub Statistics 🔍
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-arjun-y)](https://github.com/anuraghazra/github-readme-stats)
