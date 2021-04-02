@@ -10,7 +10,7 @@ Operating System - macOS Big Sur
 
 ## Links 🌐
 [Check out my website!](https://arjunyadav.net) <br>
-I also have a coding [YouTube channel](https://www.youtube.com/channel/UCVycurfnlfwSnFeKsWu5wWQ)
+I also have a coding [YouTube channel](https://www.youtube.com/channel/UCVycurfnlfwSnFeKsWu5wWQ).
 
 ## GitHub Statistics 🔍
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=default)
