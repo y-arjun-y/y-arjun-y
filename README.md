@@ -9,7 +9,7 @@ Code Editor - Visual Studio Code <br>
 Operating System - macOS Big Sur
 
 ## Links 🌐
-[Check out my website!](https://arjunyadav.net)
+[Check out my website!](https://arjunyadav.net) <br>
 I also have a coding [YouTube channel](https://www.youtube.com/channel/UCVycurfnlfwSnFeKsWu5wWQ)
 
 ## GitHub Statistics 🔍
