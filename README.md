@@ -7,7 +7,6 @@ I frequently program in Python and HTML/CSS
 ## Projects 🚀
 ### Working on ⌨️
 [No Google](https://github.com/y-arjun-y/no-google) - A series of simple projects made without any external help <br>
-[DogeHouse - Going to da Moon](https://github.com/y-arjun-y/dogehouse-going-to-da-moon) - A game made in pygame for [DogeHouse](https://github.com/benawad/dogehouse) by Ben Awad <br>
 [Stats for Apple Music](https://github.com/y-arjun-y/statsforapplemusic) - The Apple Music equivelent of [statsforspotify.com](https://statsforspotify.com)
 
 ### In the pipeline 🚰
