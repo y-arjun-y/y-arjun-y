@@ -7,7 +7,7 @@ I frequently program in Python and HTML/CSS
 ## Projects 🚀
 ### Working on ⌨️
 [No Google](https://github.com/y-arjun-y/no-google) - A series of simple projects made without any external help <br>
-[Stats for Apple Music](https://github.com/y-arjun-y/statsforapplemusic) - The Apple Music equivelent of [statsforspotify.com](https://statsforspotify.com)
+[Apple Music Stats](https://github.com/y-arjun-y/statsforapplemusic) - The Apple Music equivelent of [statsforspotify.com](https://statsforspotify.com)
 
 ### In the pipeline 🚰
 Nothing so far!
