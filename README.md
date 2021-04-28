@@ -9,6 +9,9 @@ I frequently program in Python and HTML/CSS
 [No Google](https://github.com/y-arjun-y/no-google) - A series of simple projects made without any external help <br>
 [Pet see, pet do](https://github.com/y-arjun-y/petseepetdo) - An all-in-one pet website that helps keep track of vet vists, exercise, nutrition, etc!
 
+## Finished 🏹
+[arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website.
+
 ### In the pipeline 🚰
 Nothing so far!
 
