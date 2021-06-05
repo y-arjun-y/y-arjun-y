@@ -2,25 +2,20 @@
 My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Languages 📚
-I frequently program in Python and HTML/CSS
+I frequently program in Python and HTML/CSS.
 
 ## Projects 🚀
 ### Working on ⌨️
-[No Google](https://github.com/y-arjun-y/no-google) - A series of simple projects made without any external help <br>
+[Symposium Project](https://github.com/y-arjun-y/symposiumproject) - A blog with my [brother](https://github.com/aryangauravyadav) coded in React.
+[arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - Recoding my personal website in React.
 
-### Finished 🏹
-[arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website.
-
-### In the pipeline 🚰
-Nothing so far!
-
-## Tools 🛠
+## Tools I use 🛠
 Code Editor - Visual Studio Code <br>
 Operating System - macOS Big Sur
 
 ## Links 🌐
-[Check out my website!](https://arjunyadav.net) <br>
-I also have a coding [YouTube channel](https://www.youtube.com/channel/UCVycurfnlfwSnFeKsWu5wWQ).
+[Website!](https://arjunyadav.net) <br>
+[YouTube channel](https://www.youtube.com/channel/UCnamfQ1DEl9kHcix8mursnA)
 
 ## GitHub Statistics 🔍
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=default)
