@@ -2,11 +2,12 @@
 My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Languages 📚
-I frequently program in Python and HTML/CSS.
+I frequently program in Python and HTML/CSS/JS.
 
 ## Projects 🚀
 ### Working on ⌨️
 [Symposium Project](https://github.com/y-arjun-y/symposiumproject) - A blog with my [brother](https://github.com/aryangauravyadav) coded in React. <br>
+[YouTube Academy](https://github.com/ytacademy) - A curriculum based on educational YouTube videos.
 [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - Recoding my personal website in React.
 
 ## Tools I use 🛠
