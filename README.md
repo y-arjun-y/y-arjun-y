@@ -6,16 +6,17 @@ I frequently program in Python and HTML/CSS/JS.
 
 ## Projects 🚀
 ### Working on ⌨️
-[Symposium Project](https://github.com/y-arjun-y/symposiumproject) - A blog with my [brother](https://github.com/aryangauravyadav) coded in React. <br>
-[YouTube Academy](https://github.com/ytacademy) - A curriculum based on educational YouTube videos.
 [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - Recoding my personal website in React.
+
+### Done! ⭐️
+[Symposium Project](https://github.com/y-arjun-y/symposiumproject) - A blog with my [brother](https://github.com/aryangauravyadav) coded in React. <br>
 
 ## Tools I use 🛠
 Code Editor - Visual Studio Code <br>
 Operating System - macOS Big Sur
 
 ## Links 🌐
-[Website!](https://arjunyadav.net) <br>
+[Website](https://arjunyadav.net) <br>
 [YouTube channel](https://www.youtube.com/channel/UCnamfQ1DEl9kHcix8mursnA)
 
 ## GitHub Statistics 🔍
