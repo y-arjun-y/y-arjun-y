@@ -10,7 +10,7 @@ I frequently program in HTML/CSS/JS. In addition, I know Python.
 
 ### Done! ⭐️
 [arjunyadav.net](https://arjunyadav.net) - My personal website. [Repository](https://github.com/y-arjun-y/arjunyadav) <br>
-[Symposium Project](https://sympoisumproject.com) - My space for topic based writing. [Repository](https://github.com/y-arjun-y/symposiumproject)
+[Symposium Project](https://sympoisumproject.com) - My space for topic based writing. [Repository](https://github.com/y-arjun-y/symposium)
 
 ## Tools I use 🛠
 Code Editor - Visual Studio Code <br>
