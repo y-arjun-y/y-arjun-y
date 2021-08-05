@@ -6,8 +6,8 @@ I frequently program in HTML/CSS/JS. In addition, I know Python.
 
 ## Projects 🚀
 ### Working on ⌨️
-[ML TicTacToe](https://github.com/y-arjun-y/mltictactoe) - My first Machine Learning project. A reinforcement learner that learns Tic-tac-toe.
-[Convoluted](https://convoluted.netlify.app) - A centralized website for all things Artificial Intelligence and Machine Learning. [Repository](https://github.com/y-arjun-y/convoluted)
+[ML TicTacToe](https://github.com/y-arjun-y/mltictactoe) - My first Machine Learning project. A reinforcement learner that learns Tic-tac-toe. <br>
+[Convoluted](https://convoluted.netlify.app) - A centralized website for all things Artificial Intelligence and Machine Learning. [Repository](https://github.com/y-arjun-y/convoluted) <br>
 [youthree](https://arjunyadav.net/youthree) - A U1-U6 viewer for countries. [Repository](https://github.com/y-arjun-y/arjunyadav)
 
 ### Done! ⭐️
