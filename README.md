@@ -6,8 +6,6 @@ I frequently program in HTML/CSS/JS. In addition, I know Python.
 
 ## Projects 🚀
 ### Working on ⌨️
-[ML Games](https://github.com/y-arjun-y/mlgames) - My first Machine Learning project. Using Reinforcement Learning and Pygame to teach a machine how to play classic games (such snake and tic-tac-toe). <br>
-[Convoluted](https://convoluted.netlify.app) - A centralized website for all things Artificial Intelligence and Machine Learning. [Repository](https://github.com/y-arjun-y/convoluted) <br>
 [youthree](https://arjunyadav.net/youthree) - A U1-U6 viewer for countries. [Repository](https://github.com/y-arjun-y/youthree)
 
 ### Done! ⭐️
