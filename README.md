@@ -4,6 +4,11 @@ My name is Arjun Yadav, welcome to my GitHub profile!
 ## Languages 📚
 I frequently program in HTML/CSS/JS. In addition, I know Python.
 
+## Projects ⭐️
+### Ongoing ⌨️
+[Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An Effective Altruism Data Visualiser.  
+[classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!
+
 ## Tools I use 🛠
 Code Editor - Visual Studio Code  
 Operating System - macOS Big Sur
