@@ -1,4 +1,4 @@
-# Hello, World! 🗣
+# Hello, world! 🗣
 My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Languages 📚
