@@ -6,9 +6,11 @@ I frequently program in HTML/CSS/JS. In addition, I know Python.
 
 ## Projects ⭐️
 ### Ongoing ⌨️
-[youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K. 
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An Effective Altruism data visualiser.  
 [classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!
+
+### Done 🎸
+[youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K. 
 
 ## Tools I use 🛠
 Code Editor - Visual Studio Code  
