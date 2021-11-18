@@ -6,7 +6,6 @@ I frequently program in HTML/CSS/JS. In addition, I know Python.
 
 ## Projects ⭐️
 ### Ongoing ⌨️
-[Stockfish](https://github.com/official-stockfish/Stockfish) Research - Researching hardware and software improvements in Stockfish.
 [bettermailto](https://github.com/y-arjun-y/bettermailto) - Creating a no-code replacement to the annoying mailto function.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An Effective Altruism data visualiser.  
 
