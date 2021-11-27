@@ -2,12 +2,12 @@
 My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Languages 📚
-I frequently program in HTML/CSS/JS. In addition, I know Python.
+I frequently program in HTML/CSS/JS and Python.
 
 ## Projects ⭐️
 ### Ongoing ⌨️
 bettermailto - Creating a no-code replacement to the annoying mailto function.  
-[Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An Effective Altruism data visualiser.  
+[Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 
 ### Done 🎸
 [classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!  
