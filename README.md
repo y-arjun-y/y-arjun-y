@@ -6,6 +6,7 @@ I frequently program in HTML/CSS/JS and Python.
 
 ## Projects
 ### Ongoing
+[Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Doing research into liars in the Miller-Rabin primality test. 
 bettermailto - Creating a no-code replacement to the annoying mailto function.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 
