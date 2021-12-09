@@ -16,7 +16,7 @@ bettermailto - Creating a no-code replacement to the annoying mailto function.
 
 ## Tools I use
 Code Editor - Visual Studio Code  
-Operating System - macOS Big Sur
+Operating System - macOS Monterey
 
 ## GitHub Statistics
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=default)
