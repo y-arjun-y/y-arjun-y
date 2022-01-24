@@ -6,11 +6,11 @@ I frequently program in HTML/CSS/JS and Python.
 
 ## Projects
 ### Ongoing
-[Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Doing research into liars in the Miller-Rabin primality test.  
 [bettermailto](https://github.com/bettermailto/bettermailto) - Creating a no-code replacement to the annoying mailto function.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 
 ### Done
+[Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Did research into liars in the Miller-Rabin primality test.  
 [classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!  
 [youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K. 
 
