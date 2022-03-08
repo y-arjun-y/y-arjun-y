@@ -1,9 +1,6 @@
 # Hello, world!
 My name is Arjun Yadav, welcome to my GitHub profile!
 
-## Languages
-I frequently program in HTML/CSS/JS and Python.
-
 ## Projects
 ### Ongoing
 [bettermailto](https://github.com/bettermailto/bettermailto) - Creating a no-code replacement to the annoying mailto function.  
@@ -13,10 +10,6 @@ I frequently program in HTML/CSS/JS and Python.
 [Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Did research into liars in the Miller-Rabin primality test.  
 [classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!  
 [youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K. 
-
-## Tools I use
-Code Editor - Visual Studio Code  
-Operating System - macOS Monterey
 
 ## GitHub Statistics
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=default)
