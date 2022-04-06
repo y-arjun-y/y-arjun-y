@@ -3,10 +3,10 @@ My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Projects
 ### Ongoing
-[bettermailto](https://github.com/bettermailto/bettermailto) - Creating a no-code replacement to the annoying mailto function.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 
 ### Done
+[bettermailto](https://github.com/bettermailto/bettermailto) - Created a no-code replacement to the annoying mailto function.  
 [Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Did research into liars in the Miller-Rabin primality test.  
 [classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!  
 [youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K. 
