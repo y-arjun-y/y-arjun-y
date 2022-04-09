@@ -2,7 +2,7 @@
 My name is Arjun Yadav, welcome to my GitHub profile!
 
 ## Projects
-More detail (including logs) can be found [here](https://arjunyadav.net/projects).
+More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
 ### Ongoing
 [gallpeters](https://github.com/y-arjun-y/gallpeters) - Creating an intuitive API for generating maps.  
