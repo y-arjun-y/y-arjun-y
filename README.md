@@ -9,6 +9,7 @@ More details (including logs) can be found [here](https://arjunyadav.net/project
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 
 ### Done
+[cloudclassifier](https://github.com/y-arjun-y/cloudclassifier) - A simple cloud classifier for fast.ai - Practical Deep Learning for Coders - Lesson 2.  
 [bettermailto](https://github.com/bettermailto/bettermailto) - Created a no-code replacement to the annoying mailto function.  
 [Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Did research into liars in the Miller-Rabin primality test.  
 [classless-css](https://github.com/y-arjun-y/classless-css) - A collection of hand-made classless CSS themes made by me!  
