@@ -1,6 +1,3 @@
-# Hello, world!
-My name is Arjun Yadav, welcome to my GitHub profile!
-
 ## Projects
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
