@@ -4,10 +4,8 @@ My name is Arjun Yadav, welcome to my GitHub profile!
 ## Projects
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
-### Ongoing
-[gallpeters](https://github.com/y-arjun-y/gallpeters) - Creating an intuitive API for generating maps.  
-
 ### Done
+[gallpeters](https://github.com/y-arjun-y/gallpeters) - Created a simple API for generating customizable maps.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 [cloudclassifier](https://github.com/y-arjun-y/cloudclassifier) - A simple cloud classifier for fast.ai - Practical Deep Learning for Coders - Lesson 2.  
 [bettermailto](https://github.com/bettermailto/bettermailto) - Created a no-code replacement to the annoying mailto function.  
