@@ -2,6 +2,7 @@
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
 ### Done
+[arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website which contians my blog and projects.
 [gallpeters](https://github.com/y-arjun-y/gallpeters) - Created a simple API for generating customizable maps.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
 [cloudclassifier](https://github.com/y-arjun-y/cloudclassifier) - A simple cloud classifier for fast.ai - Practical Deep Learning for Coders - Lesson 2.  
