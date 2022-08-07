@@ -2,7 +2,7 @@
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
 ### Done
-[Bear Blog Replacement Template](https://github.com/y-arjun-y/bear-blog-replacement-template) - A Markdown blog template in Next.js designed to be a self-hosted replacement to Bear Blog that's easy to setup and supports LaTex with KaTeX.   
+[Bear Blog Replacement Template](https://github.com/y-arjun-y/bear-blog-replacement-template) - A Markdown blog template in Next.js designed to be a self-hosted replacement to Bear Blog that's easy to setup and supports LaTeX with KaTeX.   
 [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website which contians my blog and projects.  
 [gallpeters](https://github.com/y-arjun-y/gallpeters) - Created a simple API for generating customizable maps.  
 [Effective Altruism Data](https://github.com/hamishhuggard/ea_data_viz) - An effective altruism data visualiser.  
