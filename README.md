@@ -17,5 +17,7 @@ More details (including logs) can be found [here](https://arjunyadav.net/project
 [youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K. 
 
 ## [GitHub Statistics](https://github.com/anuraghazra/github-readme-stats)
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=default)
-![Arjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-arjun-y)
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=shadow_blue)
+
+## [Most Used Languages](https://github.com/anuraghazra/github-readme-stats)
+![Arjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-arjun-y&theme=shadow_blue)
