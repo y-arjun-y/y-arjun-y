@@ -2,6 +2,7 @@
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
 ### Ongoing
+[Advent of Code](https://github.com/y-arjun-y/advent-of-code) - My solutions for AoCs.
 [Variational Autoencoders](https://github.com/y-arjun-y/variational-autoencoders) - Experiments in VAEs.  
 [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website which contians my blog and projects.  
 
