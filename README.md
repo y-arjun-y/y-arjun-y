@@ -2,11 +2,12 @@
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
 ### Ongoing
-[Advent of Code](https://github.com/y-arjun-y/aoc) - My solutions for all Advent of Codes that I've participated in.  
-[Variational Autoencoders](https://github.com/y-arjun-y/variational-autoencoders) - Experiments in VAEs.  
+[nanoGPT](https://github.com/y-arjun-y/nanogpt) - Implementation of [Andrej Karpathy's nanoGPT model](https://www.youtube.com/watch?v=kCc8FmEb1nY).  
 [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website which contians my blog and projects.  
 
 ### Done
+[Advent of Code](https://github.com/y-arjun-y/aoc) - My solutions for all Advent of Codes that I've participated in.  
+[Variational Autoencoders](https://github.com/y-arjun-y/variational-autoencoders) - Experiments in VAEs.  
 [Hackathon Code](https://github.com/y-arjun-y/hackathon-code) - All the hackathon codes that I've worked on (along with others).  
 [Bear Blog Replacement Template](https://github.com/y-arjun-y/bear-blog-replacement-template) - A Markdown blog template in Next.js designed to be a self-hosted replacement to Bear Blog that's easy to set up and supports LaTeX with KaTeX.   
 [gallpeters](https://github.com/y-arjun-y/gallpeters) - Created a simple API for generating customizable maps.  
