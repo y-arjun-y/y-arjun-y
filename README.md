@@ -2,7 +2,7 @@
 More details (including logs) can be found [here](https://arjunyadav.net/projects).
 
 ### Ongoing
-[nanoGPT](https://github.com/y-arjun-y/nanogpt) - Implementation of [Andrej Karpathy's nanoGPT model](https://www.youtube.com/watch?v=kCc8FmEb1nY).  
+[GPT-2 Implementation](https://github.com/y-arjun-y/gpt-2) - Implementation of [OpenAI's GPT-2](https://www.youtube.com/watch?v=dsjUDacBw8o).  
 [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website which contians my blog and projects.  
 
 ### Done
