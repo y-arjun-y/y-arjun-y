@@ -12,10 +12,4 @@ More details (including logs) can be found [here](https://arjunyadav.net/project
 - [Hackathon Code](https://github.com/y-arjun-y/hackathon-code) - All the hackathon codes that I've worked on (along with others).  
 - [Liars in the Miller-Rabin Primality Test](https://github.com/y-arjun-y/liars-miller-rabin) - Did research into liars in the Miller-Rabin primality test.  
 - [youthree](https://github.com/y-arjun-y/youthree) - An unemployment rate visualizer for the U.S. and the U.K.
-- [Variational Autoencoders](https://github.com/y-arjun-y/variational-autoencoders) - Experiments in VAEs.  
-
-## [GitHub Statistics](https://github.com/anuraghazra/github-readme-stats)
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-arjun-y&count_private=true&theme=shadow_blue)
-
-## [Most Used Languages](https://github.com/anuraghazra/github-readme-stats)
-![Arjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-arjun-y&theme=shadow_blue)
+- [Variational Autoencoders](https://github.com/y-arjun-y/variational-autoencoders) - Experiments in VAEs.
