@@ -1,4 +1,5 @@
 ## Projects
+More details about each project can be found [on my website](https://arjunyadav.net/projects).
 
 - [Advent of Code](https://github.com/y-arjun-y/aoc) - My solutions for all Advent of Codes that I've participated in.  
 - [arjunyadav.net](https://github.com/y-arjun-y/arjunyadav) - My personal website which contians my blog and projects.  
